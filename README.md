@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**yhl234/yhl234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I'm Louis
+```
+Error: Louis.greetting is undefined
+```
+### About me
+```javascript
+const Louis = {
+  greeting: "Welcome to my profile!"
+  type: "juinor web developer",
+  languages:["JavaScript","CSS","HTML is taking picture"],
+  tools:{
+    front-end:["React","Gatsby"],
+    back-end:["Express","MongoDB"],
+    in-progross:["Nest","TypeScript"]
+  },
+  weakness:"afraid of 🐶"
+}
+```
