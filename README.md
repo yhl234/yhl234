@@ -5,7 +5,7 @@ Error: Louis.greetting is undefined
 ### About me
 ```javascript
 const Louis = {
-  greeting: "Welcome to my profile!"
+  greeting: "Welcome to my profile!",
   type: "juinor web developer",
   languages:["JavaScript","CSS","HTML is taking picture"],
   tools:{
