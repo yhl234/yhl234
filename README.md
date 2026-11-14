@@ -1,18 +1,12 @@
-### 👋 Hi, I'm Louis
-```
-Error: Louis.greetting is undefined
-```
-### About me
-```javascript
-const Louis = {
-  greeting: "Welcome to my profile!",
-  type: "juinor web developer",
-  languages:["JavaScript","CSS","HTML is taking picture"],
-  tools:{
-    front-end:["React","Gatsby"],
-    back-end:["Express","MongoDB"],
-    in-progross:["Nest","TypeScript"]
-  },
-  weakness:"afraid of 🐶"
-}
-```
+# Hi, I'm Louis 👋
+
+Software Engineer in Toronto — Software Developer at PokerStars,
+building poker web apps with TypeScript, React, and WebAssembly.
+
+- 🌐 My site: [louislee.best](https://www.louislee.best)
+- 🏀 Side project: [DropInverse](https://dropinverse.com) — Toronto
+  community-centre drop-in sports schedules, all in one place
+- 🎙️ Co-host of the Take My Money Club podcast — gadgets and tech
+  for everyday listeners
+- 🦀 Currently learning Rust
+- 🐱 Cat dad to Wasabi
